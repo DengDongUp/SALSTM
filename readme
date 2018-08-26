@@ -1,0 +1,3 @@
+ this is the sentiment lexicon constructed by our proposed model, SALSTM.
+ the data format of the lexicon is as follows:
+ word \t sentiment polarities
